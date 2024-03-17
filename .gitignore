@@ -1,0 +1,9 @@
+*
+# start with ! when you want to whitelist something
+#
+#
+!.zshrc.conf
+!.gitignore
+!.tmux.conf
+!.zshrc.conf
+!alacritty.yml

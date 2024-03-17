@@ -1,0 +1,18 @@
+window:
+
+  opacity: 1.0
+  padding:
+    y: 0
+    x: 0
+  decorations: none
+  startup_mode: fullscreen
+font:
+  family: Mononoki Nerd Font
+  size: 12.0
+
+key_bindings:
+- { key: H,   mods: Alt, chars: "\x1b[D" }  # Alt + H (Left)
+- { key: J,   mods: Alt, chars: "\x1b[B" }  # Alt + J (Down)
+- { key: K,   mods: Alt, chars: "\x1b[A" }  # Alt + K (Up)
+- { key: L,   mods: Alt, chars: "\x1b[C" }  # Alt + L (Right)
+- { key: X,   mods: Control, chars: "\x1b[3~" }  # Alt + X (Delete)
