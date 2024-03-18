@@ -5,6 +5,7 @@ window:
     x: 0
   decorations: none
   startup_mode: fullscreen
+
 font:
   family: Mononoki Nerd Font
   size: 12.0
