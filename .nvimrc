@@ -3,6 +3,6 @@ set relativenumber
 set hidden
 set autoindent
 set nohlsearch
-syntax on
+
 inoremap jj <Esc> 
 
