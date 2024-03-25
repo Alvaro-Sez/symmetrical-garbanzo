@@ -16,5 +16,5 @@ nnoremap <leader>q :q<CR>
 nnoremap <leader>s :e .<CR>
 nnoremap <leader>p "+p
 vnoremap <leader>y "+y 
+nnoremap <leader>f :vimgrep /<C-r><C-w>/ **/*.
 
-colorscheme torte	
